@@ -36,7 +36,12 @@ test repository to check the git commands and Pull Requests
 
 ## From UI
 
-Demo.
+Steps:
+
+1. Go to / select your `feature` branch
+2. Click on `New pull request` button
+3. Ensure the base branch is properly selected, in our case, its `master`. If its not the one where you want to merge your request to, select the proper base branch.
+4. Demo Time!
 
 ## From commandline
 
